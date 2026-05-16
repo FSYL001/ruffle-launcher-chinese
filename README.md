@@ -5,7 +5,7 @@
 
 ---
 
-##汉化声明：
+## 汉化声明：
 在 /public 中有一个index.html这个是原版没有汉化的
 /public/chinese/index.html 是原本只是汉化UI文字，其他从没有进行任何改动
 /public/chinese-nogame/index.html 是汉化文字删除网络源的简介版，所有游戏都需要自行添加
